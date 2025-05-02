@@ -115,7 +115,7 @@ The deployment scripts automatically store the contract addresses in `deployedCo
 
 ### Resources
 
-The [Get Started with Messaging](TODO: add address for link) provides a step by step guide for setting up and running this repository. 
+The [Get Started with Messaging](TODO: add address for link) documentation provides a step by step guide for setting up and running this repository. 
 
 
 
